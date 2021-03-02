@@ -1,0 +1,48 @@
+.col-xs-12 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+#lezioni {
+  text-align: center;
+}
+
+#steps {
+  text-align: center;
+}
+
+#why {
+  text-align: center;
+}
+
+#why .col-xs-12 img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
+}
+
+.container.grey {
+  background-color: #f9f9f9;
+}
+
+img {
+  height: 160px;
+}
+
+.col-xs-12 h1 {
+  text-transform: uppercase;
+  font-size: 26px;
+}
+
+.col-xs-12 h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.col-xs-12 p {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  line-height: 25px;
+  font-size: 20px;
+}
